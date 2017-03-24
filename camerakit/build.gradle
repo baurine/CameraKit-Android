@@ -1,4 +1,5 @@
 apply plugin: 'com.android.library'
+group='com.github.baurine'
 
 ext {
     PUBLISH_GROUP_ID = 'com.flurgle'
